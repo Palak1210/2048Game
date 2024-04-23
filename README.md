@@ -13,3 +13,8 @@ pip install pygame
 ## Screenshots
 
 ![image](https://github.com/Palak1210/2048Game/assets/37775549/c072703d-222d-4df3-9a50-feaa686d726b) ![image](https://github.com/Palak1210/2048Game/assets/37775549/95b19c58-0d6f-4c7f-94eb-234d43da5699) ![image](https://github.com/Palak1210/2048Game/assets/37775549/8d0cffb6-dd41-4adc-8356-28bb3184315c)
+
+
+## Acknowledgement
+
+Special thanks to TechWithTim 
